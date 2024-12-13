@@ -2,7 +2,7 @@
 ### Bringing 2+ years of expertise in front-end and back-end development to create cutting-edge web applications.
 
 ## Skills: HTML, CSS, JavaScript, Bootstrap, React.js, jQuery, Node.js
-## From: Bangladesh
+### From: Bangladesh
 🌐 Fiverr Profile: Tanver Mahidi (Completed 250+ international projects)
 
 ### Key Strengths
@@ -29,4 +29,4 @@ Tools: React, Firebase.
 News Portal (In Progress)
 A comprehensive platform for news updates with a structured layout: home, auth, and news sections.
 
-#####Tools: React.
+##### Tools: React.
