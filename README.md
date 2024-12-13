@@ -1,11 +1,11 @@
 # Tanver Mahidi | Full-Stack Web Developer
-🚀 Bringing 2+ years of expertise in front-end and back-end development to create cutting-edge web applications.
+### Bringing 2+ years of expertise in front-end and back-end development to create cutting-edge web applications.
 
-🌟 Skills: HTML, CSS, JavaScript, Bootstrap, React.js, jQuery, Node.js
-📍 From: Bangladesh
+## Skills: HTML, CSS, JavaScript, Bootstrap, React.js, jQuery, Node.js
+## From: Bangladesh
 🌐 Fiverr Profile: Tanver Mahidi (Completed 250+ international projects)
 
-Key Strengths
+###Key Strengths
 Front-End Mastery: Crafting responsive, user-friendly interfaces with React, HTML, CSS, and Bootstrap.
 Back-End Expertise: Designing robust back-end solutions using modern technologies.
 
