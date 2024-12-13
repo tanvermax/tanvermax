@@ -1,4 +1,4 @@
-💻 Tanver Mahidi | Full-Stack Web Developer
+# Tanver Mahidi | Full-Stack Web Developer
 🚀 Bringing 2+ years of expertise in front-end and back-end development to create cutting-edge web applications.
 
 🌟 Skills: HTML, CSS, JavaScript, Bootstrap, React.js, jQuery, Node.js
