@@ -5,15 +5,15 @@
 ## From: Bangladesh
 🌐 Fiverr Profile: Tanver Mahidi (Completed 250+ international projects)
 
-###Key Strengths
+### Key Strengths
 Front-End Mastery: Crafting responsive, user-friendly interfaces with React, HTML, CSS, and Bootstrap.
 Back-End Expertise: Designing robust back-end solutions using modern technologies.
 
- Portfolio Highlights
+#### Portfolio Highlights
 Gadgets Heaven
 A tech marketplace featuring products like phones, laptops, and smartwatches.
 
-Features:
+##### Features:
 Dynamic product pages with 'Buy' and 'See Details' options.
 Interactive sales rate chart.
 Wishlist functionality and dynamic page titles using react-helmet-async.
@@ -29,4 +29,4 @@ Tools: React, Firebase.
 News Portal (In Progress)
 A comprehensive platform for news updates with a structured layout: home, auth, and news sections.
 
-Tools: React.
+#####Tools: React.
