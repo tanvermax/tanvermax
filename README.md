@@ -49,7 +49,7 @@
 </div>
 
 ###
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tanvermax&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tanvermax&theme=shadow-red&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon)](https://git.io/streak-stats)
 
 ###
 <div align="center">
