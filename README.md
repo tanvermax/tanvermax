@@ -48,12 +48,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="51" alt="firebase logo"  />
 </div>
 ###
-<h2>GitHub Stats</h2>
+<div align="center">
+  <h2>GitHub Stats</h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=tanvermax&amp;show_icons=true" alt="GitHub Stats"></p>
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tanvermax&theme=shadow-red&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon)](https://git.io/streak-stats)
 
+</div>
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/tanver-mahidi-2725292ab/" target="_blank">
