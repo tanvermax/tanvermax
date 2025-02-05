@@ -34,9 +34,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=tanvermax&show_icons=true&theme=tokyonight" height="150"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=tanvermax&show_icons=true&theme=dark" height="150">
-<!--   ![Tanvermax's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvermax&show_icons=true&theme=dark) -->
   
   [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tanvermax&theme=shadow-red&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon)](https://git.io/streak-stats)
 
@@ -45,35 +43,32 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.facebook.com/tanvermahidi999/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tanver-mahidi-2725292ab/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/MahidiTanv41555" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/tanvermax" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@TanveerMahidi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="40" height="40">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/tanverstagram/?hl=en" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40">
-  </a>
-  <a href="https://www.facebook.com/tanvermahidi999/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ☕ Support Me
+## ☕ Support Me  
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/mokkapps" target="_blank">
