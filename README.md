@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tanvermax">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tanvermax.tanvermax">
 <br>
 
 <div align="center">
