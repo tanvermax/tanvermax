@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning proggraming<br>🎯 Goals: software engineer<br>🎲 Fun fact: i love to play cricket</p>
+<p align="left">✨ Creating dynamic website<br>📚 I'm currently learning proggraming<br>🎯 Goals: software engineer<br>🎲 Fun fact: i love to play cricket</p>
 
 ###
 
