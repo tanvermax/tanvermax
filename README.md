@@ -6,7 +6,7 @@
 </div>
 
 ###
-<h1 align="center">
+<h1 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tanver+Mahidi...;I'm+a+MARN+Stackdeveloper+from+Dhaka,+Bangladesh!&center=true&size=30">
   </a>
