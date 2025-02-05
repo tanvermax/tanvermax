@@ -63,6 +63,15 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tanvermax&theme=shadow-red&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon)](https://git.io/streak-stats)
 
 ###
+
+ <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/tanvermax/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/tanver-mahidi-2725292ab/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
