@@ -1,14 +1,16 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+
 <div align="center">
   <img height="250" src="https://i.ibb.co.com/tj7Cc6c/githubbanner.png"  />
 </div>
 
 ###
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Hi,My name is Tanver Mahidi and I'm a MARN Stackdeveloper from Dhaka, Bangladesh</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tanver+Mahidi...;I'm+a+MARN+Stackdeveloper+from+Dhaka,+Bangladesh!&center=true&size=30">
+  </a>
+</h1>
 
 ###
 
