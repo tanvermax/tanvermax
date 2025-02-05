@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tanvermax.tanvermax">
 
 <div align="center">
-  <img height="220" src="https://i.ibb.co.com/TxDfDq5c/tanver-mahidi.png" />
+  <img height="220" src="https://i.ibb.co.com/2Y8bn6Qs/tanver-mahidi.png" />
 </div>
 
 ---
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=61DAFB&center=true&vCenter=true&lines=Hello,+There!+👋;Welcome+to+My+GitHub!;I'm+Tanver+Mahidi!;A+MERN+Stack+Developer;From+Dhaka,+Bangladesh">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=61DAFB&center=true&vCenter=true&lines=Hello,+There!+👋;Welcome+to+My+GitHub!;I'm+Tanver+Mahidi!;A+Web+Developer;From+Dhaka,+Bangladesh">
   </a>
 </h1>
 
