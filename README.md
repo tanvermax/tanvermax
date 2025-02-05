@@ -78,6 +78,10 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 ###
 <div align="center">
   <a  href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
