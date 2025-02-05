@@ -1,5 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tanvermax">
+<br>
 
 <div align="center">
   <img height="250" src="https://i.ibb.co.com/tj7Cc6c/githubbanner.png"  />
