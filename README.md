@@ -92,6 +92,24 @@
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <!-- Dark mode version -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvermax/tanvermax/output/github-contribution-grid-snake-dark.svg" />
+  <!-- Light mode version -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvermax/tanvermax/output/github-contribution-grid-snake.svg" />
+  <!-- Fallback image -->
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tanvermax/tanvermax/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- Optional: Show the cool colorful version as a badge -->
+<details>
+<summary>🎨 Click to see colorful version</summary>
+<br>
+<img src="https://raw.githubusercontent.com/tanvermax/tanvermax/output/cool-snake.gif" alt="Colorful Snake Animation">
+</details>
+
 ## 🐍 Contribution Snake
 
 <!-- <p align="center">
