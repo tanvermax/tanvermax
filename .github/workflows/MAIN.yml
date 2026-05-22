@@ -1,13 +1,13 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: Generate Snake
+name: Generate Snake Animation
 
 # Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
     # every 6 hours
     - cron: "0 */6 * * *"
-  # This command allows us to run the Action automatically from the Actions tab.
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 # The sequence of runs in this workflow:
@@ -15,37 +15,47 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Forces Node.js 24 for future compatibility
+    
     permissions:
-      contents: write  # This permission is needed to push changes
+      contents: write  # Needed to push changes to output branch
     
     steps:
-      # Checks repo under $GITHUB_WORKSPACE, so your job can access it
+      # Checks out your repository under $GITHUB_WORKSPACE
       - name: Checkout repository
-        uses: actions/checkout@v4  # ✅ Updated to v4 (Node.js 24 compatible)
+        uses: actions/checkout@v4
       
-      # Generates the snake
+      # Generates the snake animation with multiple variants
       - name: Generate snake animation
-        uses: Platane/snk@v3  # ✅ Updated to latest version
+        uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: tanvermax  # Replace with your GitHub username
+          github_user_name: tanvermax  # Your GitHub username
+          # Generate multiple versions for different use cases
           outputs: |
+            # Standard light mode SVG (best quality)
             dist/github-contribution-grid-snake.svg
+            # Dark mode optimized SVG
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # Fallback GIF version
             dist/github-contribution-grid-snake.gif
+            # 🎨 NEW: Colorful custom version (orange snake with ocean blue theme)
+            dist/cool-snake.gif?color_snake=#ff6b35&color_dots=#f0f0f0,#c8e6f5,#6bb5d9,#3a8bbb,#1a5a7a&color_background=#0d1117
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      # Show the status of the build. Makes it easier for debugging (if there's any issues).
-      - name: Show status
-        run: git status
+      # Debug: Show generated files
+      - name: List generated files
+        run: |
+          echo "Generated files in dist folder:"
+          ls -la dist/
       
-      # Push the changes to output branch
+      # Push all generated files to the 'output' branch
       - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4  # ✅ Modern alternative
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          force_orphan: true
+          force_orphan: true  # Clean rebuild every time
+          commit_message: "chore: update snake animation [skip ci]"
