@@ -105,12 +105,12 @@
 
 <!-- Optional: Show the cool colorful version as a badge -->
 <details>
-<summary>🎨 Click to see colorful version</summary>
+<!-- <summary>🎨 Click to see colorful version</summary>
 <br>
 <img src="https://raw.githubusercontent.com/tanvermax/tanvermax/output/cool-snake.gif" alt="Colorful Snake Animation">
-</details>
+</details> -->
 
-## 🐍 Contribution Snake
+
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/tanvermax/tanvermax/output/github-snake.svg" alt="Snake animation" />
@@ -118,7 +118,7 @@
 
 ![snake gif](https://raw.githubusercontent.com/tanvermax/tanvermax/output/github-contribution-grid-snake.gif) -->
 
-![snake gif](https://raw.githubusercontent.com/tanvermax/tanvermax/output/github-contribution-grid-snake.svg)
+
 ## 🌐 Connect With Me
 <p align="center"> 
   <a href="https://www.facebook.com/tanvermahidi999/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /> </a> 
