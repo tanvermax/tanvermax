@@ -92,7 +92,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution
 
 <picture>
   <!-- Dark mode version -->
