@@ -87,7 +87,7 @@
 
 ## 📈 Activity Graph
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvermax&theme=tokyonight&area=true" width="100%" /> 
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=tanvermax&theme=tokyonight&area=true](https://github-readme-stats.vercel.app/api?username=tanvermax&show_icons=true&theme=dark)" width="100%" /> 
 </p>
 
 ---
