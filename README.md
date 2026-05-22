@@ -104,7 +104,7 @@
 </picture>
 
 <!-- Optional: Show the cool colorful version as a badge -->
-<details>
+
 <!-- <summary>🎨 Click to see colorful version</summary>
 <br>
 <img src="https://raw.githubusercontent.com/tanvermax/tanvermax/output/cool-snake.gif" alt="Colorful Snake Animation">
